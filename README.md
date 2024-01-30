@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HOUCQ)
+  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HOUCQ4869)
 
 
 <!--
