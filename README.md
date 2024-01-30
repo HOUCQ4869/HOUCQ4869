@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=houcq4869)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houcq4869)
 
 <!--START_SECTION:waka-->
