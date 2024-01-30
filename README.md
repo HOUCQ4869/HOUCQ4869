@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2034%20mins-blue)
 
