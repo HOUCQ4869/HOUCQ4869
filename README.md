@@ -46,16 +46,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-compiler-test            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -73,7 +73,7 @@ C                        1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2024 18:34:42 UTC
+ Last Updated on 11/02/2024 18:33:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
