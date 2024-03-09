@@ -46,19 +46,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 mins              ████████████████████████░   94.31 % 
-LLVM                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sysy2022-llvm-ir-compiler6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -77,7 +74,7 @@ C                        1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2024 18:33:13 UTC
+ Last Updated on 09/03/2024 18:33:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
