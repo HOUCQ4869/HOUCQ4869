@@ -3,13 +3,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=houcq4869)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 16 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,19 +46,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 hrs 48 mins       ████████████████████░░░░░   79.92 % 
-Text                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C++                      7 hrs 33 mins       ███████████████████░░░░░░   77.28 % 
+Text                     2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs               █████████████████████████   100.00 % 
+VS Code                  9 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab1                     5 hrs 58 mins       █████████████████████████   99.43 % 
-Astar                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+lab1                     9 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
+Windows                  9 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +77,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2024 18:34:03 UTC
+ Last Updated on 05/05/2024 18:33:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
