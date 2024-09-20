@@ -11,8 +11,6 @@
 
 > 📦 70.8 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -75,7 +73,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2024 18:41:11 UTC
+ Last Updated on 20/09/2024 18:41:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
