@@ -11,6 +11,8 @@
 
 > 📦 70.9 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -44,19 +46,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      8 hrs 16 mins       ███████████████████████░░   92.51 % 
-Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ustcthesis-master        8 hrs 16 mins       ███████████████████████░░   92.53 % 
-clinical-trials-ml-main  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -75,7 +74,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 18:43:30 UTC
+ Last Updated on 19/05/2025 18:47:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
