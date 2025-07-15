@@ -11,8 +11,6 @@
 
 > 📦 71.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -46,16 +44,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Dify专区                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -74,7 +72,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 18:52:54 UTC
+ Last Updated on 15/07/2025 18:52:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
