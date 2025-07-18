@@ -3,13 +3,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=houcq4869)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 71.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +46,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     0 secs              █████████████████████████   100.00 % 
+Markdown                 18 mins             █████████████████████████   99.64 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dify专区                   0 secs              █████████████████████████   100.00 % 
+md                       18 mins             █████████████████████████   99.64 % 
+Dify专区                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -72,7 +76,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2025 18:52:15 UTC
+ Last Updated on 18/07/2025 18:51:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
