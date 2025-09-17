@@ -3,11 +3,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=houcq4869)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 71.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -15,6 +19,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+🌆 Daytime                101 commits         ████████░░░░░░░░░░░░░░░░░   32.48 % 
+🌃 Evening                178 commits         ██████████████░░░░░░░░░░░   57.23 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Tuesday                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Friday                   209 commits         █████████████████░░░░░░░░   67.20 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -31,7 +74,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:44:47 UTC
+ Last Updated on 17/09/2025 18:44:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
