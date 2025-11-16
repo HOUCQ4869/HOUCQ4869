@@ -3,8 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=houcq4869)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -19,45 +17,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-🌆 Daytime                101 commits         ████████░░░░░░░░░░░░░░░░░   32.37 % 
-🌃 Evening                179 commits         ██████████████░░░░░░░░░░░   57.37 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Tuesday                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Thursday                 36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Friday                   209 commits         █████████████████░░░░░░░░   66.99 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -74,7 +33,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:43:37 UTC
+ Last Updated on 16/11/2025 18:44:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
