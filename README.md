@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,16 +44,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    7 mins              █████████████████░░░░░░░░   69.36 % 
+Python                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+SSH Config               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          6 mins              ███████████████░░░░░░░░░░   60.67 % 
+Python_A                 3 mins              █████████░░░░░░░░░░░░░░░░   34.41 % 
+database                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -72,7 +78,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 18:54:38 UTC
+ Last Updated on 13/01/2026 18:53:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
