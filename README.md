@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,16 +44,23 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      27 mins             █████████░░░░░░░░░░░░░░░░   37.03 % 
+Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+V                        16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        ████████████████████████░   97.30 % 
+Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+2023ustc-jianmu-compiler 48 mins             ████████████████░░░░░░░░░   65.30 % 
+work                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+admin                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -72,7 +79,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 20:30:10 UTC
+ Last Updated on 05/06/2026 20:21:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
