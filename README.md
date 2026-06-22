@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,24 +44,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 24 mins        █████████████████████░░░░   84.54 % 
-V                        10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        ███████████████████████░░   93.32 % 
-Claude Code              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-C++_Single               44 mins             ███████████░░░░░░░░░░░░░░   44.17 % 
-2023ustc-jianmu-compiler 42 mins             ███████████░░░░░░░░░░░░░░   42.24 % 
-src                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-lab6_侯超群_PB21111618_ver0 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             ██████████████░░░░░░░░░░░   57.76 % 
-Linux                    42 mins             ███████████░░░░░░░░░░░░░░   42.24 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -80,7 +72,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 20:10:23 UTC
+ Last Updated on 22/06/2026 21:18:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
