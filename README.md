@@ -1,9 +1,9 @@
 ### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,22 +46,46 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 hr 24 mins        █████████████████████░░░░   82.72 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+JSON5                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+GN                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hiviewdfx_blackbox_lite  1 hr 27 mins        █████████████████████░░░░   85.56 % 
+system_application_analys11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+startup_bootstrap_lite   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+ability_dmsfwk_lite      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 12 mins (71.43%)
+
+✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
+
+🔤 65,253 Input Tokens, 4,214 Output Tokens
+
+💵 $0.26 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 7 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 60 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -80,7 +104,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:08:31 UTC
+ Last Updated on 25/08/2026 19:06:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
