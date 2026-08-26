@@ -1,9 +1,9 @@
 ### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,46 +46,48 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        1 hr 24 mins        █████████████████████░░░░   82.72 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-JSON5                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-GN                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+C                        1 hr 58 mins        █████████████░░░░░░░░░░░░   51.29 % 
+Markdown                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Other                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+JSON5                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 44 mins       ████████████████████████░   97.37 % 
+Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🐱‍💻 Projects: 
-hiviewdfx_blackbox_lite  1 hr 27 mins        █████████████████████░░░░   85.56 % 
-system_application_analys11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-startup_bootstrap_lite   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-ability_dmsfwk_lite      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+hiviewdfx_blackbox_lite  2 hrs 11 mins       ██████████████░░░░░░░░░░░   56.88 % 
+system_application_analys1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   41.83 % 
+startup_bootstrap_lite   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+ability_dmsfwk_lite      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 Repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (71.43%)
+⏱ AI Coding Time: 2 hrs 42 mins (70.35%)
 
-✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
+✍️ 1,457 lines written by AI, 4 lines written by hand (99.73% AI-written)
 
-🔤 65,253 Input Tokens, 4,214 Output Tokens
+🔤 534,483 Input Tokens, 161,696 Output Tokens
 
-💵 $0.26 Estimated AI Cost This Week
+💵 $31.70 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 7 AI Prompts
+🧠 11 AI Sessions, 23 AI Prompts
 
+Deepseek                 1,524 lines         █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.73% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 3.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -104,7 +106,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:06:46 UTC
+ Last Updated on 26/08/2026 20:26:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
