@@ -1,9 +1,9 @@
 ### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,52 +46,51 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-Markdown                 2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-Other                    1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-GN                       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+C                        2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Markdown                 2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Other                    1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+GN                       41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 42 mins       ███████████████████████░░   93.63 % 
-Claude Code              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+VS Code                  8 hrs 3 mins        ████████████████████████░   94.25 % 
+Claude Code              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-blackbox_lite            2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-nearlink_dk_3863         1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-system_application_analys1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-hiviewdfx_blackbox_lite  58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-ipcamera_hispark_taurus_l27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+blackbox_lite            2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
+nearlink_dk_3863         1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+oh_code                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+ipcamera_hispark_taurus_l27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+IPC&AOV                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 💻 Operating System: 
-WSL                      6 hrs 39 mins       ██████████████████░░░░░░░   71.52 % 
-Windows                  2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+WSL                      7 hrs 51 mins       ███████████████████████░░   91.85 % 
+Windows                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 37 mins (81.93%)
+⏱ AI Coding Time: 7 hrs 26 mins (86.99%)
 
-✍️ 5,017 lines written by AI, 4 lines written by hand (99.92% AI-written)
+✍️ 4,014 lines written by AI, 4 lines written by hand (99.9% AI-written)
 
-🔤 2,471,854 Input Tokens, 590,902 Output Tokens
+🔤 2,873,641 Input Tokens, 483,962 Output Tokens
 
-💵 $192.98 Estimated AI Cost This Week
+💵 $174.71 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 68 AI Prompts
+🧠 21 AI Sessions, 66 AI Prompts
 
-Deepseek                 5,204 lines         █████████████████████████   100.00 % 
+Deepseek                 4,134 lines         █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📝 Concise Prompter — average 97 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📝 Concise Prompter — average 447 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.89% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -110,7 +109,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HOUCQ4869/HOUCQ4869/master/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 22:57:23 UTC
+ Last Updated on 01/09/2026 21:10:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
