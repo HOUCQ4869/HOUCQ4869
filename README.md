@@ -5,6 +5,21 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2013%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 71.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+
 📊 **This Week I Spent My Time On** 
 
 ```text
