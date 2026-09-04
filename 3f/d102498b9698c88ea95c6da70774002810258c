@@ -1,0 +1,20 @@
+README.md
+  s_cb1623896c97f7::t_6fdf03d6b7657a 8-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.29.1408",
+  "base_commit_sha": "3fd102498b9698c88ea95c6da70774002810258c",
+  "prompts": {},
+  "sessions": {
+    "s_cb1623896c97f7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f95c6dc53ffeVgHMtmut0WmmI6",
+        "model": "glm-5.3"
+      },
+      "human_author": "houchaoqun <houchaoqun@h-partners.com>",
+      "total_deletions": 2
+    }
+  }
+}
