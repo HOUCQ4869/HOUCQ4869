@@ -1,37 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub&font=Fira+Code&center=true&width=420&height=50)](https://git.io/typing-svg)
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="metrics.overview.svg" alt="GitHub metrics overview" width="100%">
-    </td>
-    <td width="50%" valign="top">
-      <img src="metrics.languages.svg" alt="Languages" width="100%">
-    </td>
-  </tr>
-</table>
+### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2039%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2013%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
+```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">C</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">4 hrs 5 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="145" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">40.41%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1 hr 36 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="57" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">15.94%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1 hr 31 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="54" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">15.11%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1 hr 13 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="44" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">12.09%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">C++</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">38 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="23" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">6.33%</text></svg>
+C                        4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.41 % 
+Other                    1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░   15.94 % 
+JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+C++                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">10 hrs 7 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">99.98%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Claude Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="0" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">0.02%</text></svg>
+VS Code                  10 hrs 7 mins       █████████████████████████   99.98 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">blackbox_lite</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3 hrs 45 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="134" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">37.09%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">26099</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1 hr 9 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="41" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">11.38%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">nearlink_dk_3863</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">46 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="28" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">7.73%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">oh_release</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">38 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="23" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">6.38%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">hiviewdfx_blackbox_lite</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">35 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="21" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">5.88%</text></svg>
+blackbox_lite            3 hrs 45 mins       █████████░░░░░░░░░░░░░░░   37.09 % 
+26099                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+nearlink_dk_3863         46 mins             ██░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+oh_release               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+hiviewdfx_blackbox_lite  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 💻 Operating System: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">WSL</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">9 hrs 7 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="325" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">90.17%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Windows</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">59 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="35" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">9.83%</text></svg>
-
+WSL                      9 hrs 7 mins        ███████████████████████░░   90.17 % 
+Windows                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+```
 
 🤖 **AI Coding This Week** 
 
@@ -46,7 +46,9 @@
 
 🧠 27 AI Sessions, 78 AI Prompts
 
-<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Deepseek</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3,114 lines</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="340" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">94.36%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Glm</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">186 lines</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="20" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">5.64%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Opencode-Cli</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">0 lines</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="0" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text></svg>
+Deepseek                 3,114 lines         ████████████████████████░   94.36 % 
+Glm                      186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.16% of written lines came from AI
