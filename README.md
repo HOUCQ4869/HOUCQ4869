@@ -1,5 +1,7 @@
 ### Hi there 👋, welcome to my github.
 
+- 📝 Blog: [https://houcq4869.github.io/](https://houcq4869.github.io/).
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2039%20mins-blue?style=flat)
 
@@ -8,53 +10,12 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 C                        4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.41 % 
 Other                    1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░   15.94 % 
 JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░   15.11 % 
 Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 C++                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 7 mins       █████████████████████████   99.98 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🐱‍💻 Projects: 
-blackbox_lite            3 hrs 45 mins       █████████░░░░░░░░░░░░░░░   37.09 % 
-26099                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-nearlink_dk_3863         46 mins             ██░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-oh_release               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-hiviewdfx_blackbox_lite  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-
-💻 Operating System: 
-WSL                      9 hrs 7 mins        ███████████████████████░░   90.17 % 
-Windows                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 20 mins (62.69%)
-
-✍️ 3,173 lines written by AI, 27 lines written by hand (99.16% AI-written)
-
-🔤 2,914,453 Input Tokens, 304,122 Output Tokens
-
-💵 $79.63 Estimated AI Cost This Week
-
-🧠 27 AI Sessions, 78 AI Prompts
-
-Deepseek                 3,114 lines         ████████████████████████░   94.36 % 
-Glm                      186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.16% of written lines came from AI
-📄 Detailed Prompter — average 1,155 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.46% of changed lines were hand-edited
 ```
 
 
