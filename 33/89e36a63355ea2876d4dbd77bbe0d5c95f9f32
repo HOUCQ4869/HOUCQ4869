@@ -1,0 +1,22 @@
+.github/workflows/main.yml
+  s_cb1623896c97f7::t_fba8d3098348a8 1,9
+README.md
+  s_cb1623896c97f7::t_dbac1b1c54f6fa 1,4,6,10,14-18,21-22,25-29,32-34,49-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.29.1408",
+  "base_commit_sha": "3389e36a63355ea2876d4dbd77bbe0d5c95f9f32",
+  "prompts": {},
+  "sessions": {
+    "s_cb1623896c97f7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f95c6dc53ffeVgHMtmut0WmmI6",
+        "model": "glm-5.3"
+      },
+      "human_author": "houchaoqun <houchaoqun@h-partners.com>",
+      "total_deletions": 51
+    }
+  }
+}
