@@ -25,56 +25,56 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Markdown                 2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-C++                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+C                        2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Markdown                 2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+C++                      1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 34 mins       ████████████████░░░░░░░░░   64.23 % 
-Opencode Cli             3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-OpenCode                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  6 hrs 15 mins       █████████████░░░░░░░░░░░░   53.99 % 
+Opencode Cli             3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+OpenCode                 2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-blackbox_lite            2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-HOUCQ4869.github.io      2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-LeetCodePractice         1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-HOUCQ4869                1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-system_application_analys1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+HOUCQ4869.github.io      2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+LeetCodePractice         1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+blackbox_lite            1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+HOUCQ4869                1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+system_application_analys1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 
 💻 Operating System: 
-WSL                      14 hrs 21 mins      ████████████████████████░   96.38 % 
-Windows                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+WSL                      11 hrs 18 mins      ████████████████████████░   97.68 % 
+Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 6 mins (74.6%)
+⏱ AI Coding Time: 8 hrs 57 mins (77.35%)
 
-✍️ 15,399 lines written by AI, 34 lines written by hand (99.78% AI-written)
+✍️ 15,315 lines written by AI, 16 lines written by hand (99.9% AI-written)
 
-🔤 6,814,881 Input Tokens, 742,424 Output Tokens
+🔤 6,294,078 Input Tokens, 625,298 Output Tokens
 
-💵 $130.63 Estimated AI Cost This Week
+💵 $112.56 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 111 AI Prompts
+🧠 42 AI Sessions, 90 AI Prompts
 
-Glm                      13,981 lines        ███████████████████████░░   91.14 % 
-Qwen                     1,237 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-K                        74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Deepseek                 48 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Glm                      13,861 lines        ███████████████████████░░   91.07 % 
+Qwen                     1,237 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+K                        74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Deepseek                 48 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 1,508 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📄 Detailed Prompter — average 1,437 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 21:17:19 UTC
+ Last Updated on 09/09/2026 21:02:50 UTC
 <!--END_SECTION:waka-->
