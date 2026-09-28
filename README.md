@@ -1,9 +1,9 @@
 ### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,50 +25,53 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.83 % 
-Other                    2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-C                        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Markdown                 7 hrs 6 mins        ██████████████░░░░░░░░░░░   55.56 % 
+Other                    3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+C                        32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-OpenCode                 6 hrs 35 mins       █████████████████████░░░░   82.62 % 
-VS Code                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+OpenCode                 9 hrs 43 mins       ███████████████████░░░░░░   76.02 % 
+Opencode Cli             1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+VS Code                  1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 
 🐱‍💻 Projects: 
-resource                 7 hrs 21 mins       ███████████████████████░░   92.25 % 
-liteos_a                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-oh_lts                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Repo                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-web-access               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+resource                 12 hrs 1 min        ████████████████████████░   94.02 % 
+liteos_a                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+web-access               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+oh_lts                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Repo                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-WSL                      7 hrs 58 mins       █████████████████████████   100.00 % 
+WSL                      12 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 37 mins (95.58%)
+⏱ AI Coding Time: 12 hrs 26 mins (97.25%)
 
-✍️ 2,161 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 3,232 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 2,504,703 Input Tokens, 700,879 Output Tokens
+🔤 6,029,751 Input Tokens, 1,668,895 Output Tokens
 
-💵 $236.71 Estimated AI Cost This Week
+💵 $402.57 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 89 AI Prompts
+🧠 42 AI Sessions, 140 AI Prompts
 
-K                        1,991 lines         █████████████████████████   100.00 % 
+K                        1,995 lines         █████████████████░░░░░░░░   69.51 % 
+Glm                      875 lines           ████████░░░░░░░░░░░░░░░░░   30.49 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 2,972 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 4,018 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 21:29:57 UTC
+ Last Updated on 28/09/2026 23:24:33 UTC
 <!--END_SECTION:waka-->
