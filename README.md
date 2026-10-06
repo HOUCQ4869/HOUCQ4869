@@ -25,54 +25,54 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 47 mins       ██████████████░░░░░░░░░░░   55.28 % 
-JSON                     2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Python                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 4 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.86 % 
+JSON                     2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Python                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-OpenCode                 8 hrs 12 mins       ███████████████░░░░░░░░░░   58.27 % 
-Opencode Cli             4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Claude Code              1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+OpenCode                 5 hrs 2 mins        ██████████████░░░░░░░░░░░   54.56 % 
+Opencode Cli             2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Claude Code              1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 
 🐱‍💻 Projects: 
-resource                 8 hrs 38 mins       ███████████████░░░░░░░░░░   61.34 % 
-houcq                    2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-opencode                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Unknown Project          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-test                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+resource                 3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
+houcq                    2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+opencode                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Unknown Project          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+test                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-WSL                      14 hrs 5 mins       █████████████████████████   100.00 % 
+WSL                      9 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 5 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 14 mins (100.0%)
 
-✍️ 3,083 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,976 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,948,436 Input Tokens, 2,247,955 Output Tokens
+🔤 10,419,658 Input Tokens, 1,274,687 Output Tokens
 
-💵 $423.35 Estimated AI Cost This Week
+💵 $255.71 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 153 AI Prompts
+🧠 47 AI Sessions, 101 AI Prompts
 
-Glm                      1,748 lines         ███████████████░░░░░░░░░░   60.03 % 
-K                        831 lines           ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Qwen                     229 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Opencode-Cli             61 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Deepseek                 43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Glm                      873 lines           ███████████░░░░░░░░░░░░░░   43.33 % 
+K                        809 lines           ██████████░░░░░░░░░░░░░░░   40.15 % 
+Qwen                     229 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Opencode-Cli             61 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Deepseek                 43 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,436 characters per prompt
+📚 Verbose Prompter — average 2,254 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 21:43:13 UTC
+ Last Updated on 06/10/2026 00:12:35 UTC
 <!--END_SECTION:waka-->
