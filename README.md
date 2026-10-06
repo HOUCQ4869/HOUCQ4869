@@ -25,54 +25,54 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.86 % 
-JSON                     2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Python                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+JSON                     2 hrs 43 mins       ███████████████░░░░░░░░░░   58.20 % 
+Python                   53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-OpenCode                 5 hrs 2 mins        ██████████████░░░░░░░░░░░   54.56 % 
-Opencode Cli             2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-Claude Code              1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Opencode Cli             2 hrs 40 mins       ██████████████░░░░░░░░░░░   57.33 % 
+Claude Code              1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+OpenCode                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 
 🐱‍💻 Projects: 
-resource                 3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
-houcq                    2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-opencode                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Unknown Project          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-test                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+houcq                    2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.74 % 
+opencode                 1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Unknown Project          46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+resource                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+test                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-WSL                      9 hrs 14 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 40 mins (100.0%)
 
-✍️ 1,976 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 679 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,419,658 Input Tokens, 1,274,687 Output Tokens
+🔤 4,561,491 Input Tokens, 375,919 Output Tokens
 
-💵 $255.71 Estimated AI Cost This Week
+💵 $92.81 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 101 AI Prompts
+🧠 16 AI Sessions, 46 AI Prompts
 
-Glm                      873 lines           ███████████░░░░░░░░░░░░░░   43.33 % 
-K                        809 lines           ██████████░░░░░░░░░░░░░░░   40.15 % 
-Qwen                     229 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Opencode-Cli             61 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Deepseek                 43 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+GLM                      647 lines           ██████████████████████░░░   86.15 % 
+Opencode-Cli             61 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+DeepSeek                 43 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,254 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 137 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 00:12:35 UTC
+ Last Updated on 06/10/2026 22:43:17 UTC
 <!--END_SECTION:waka-->
