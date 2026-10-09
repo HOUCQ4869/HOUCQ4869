@@ -1,15 +1,15 @@
 ### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 76.7 kB Used in GitHub's Storage 
+> 📦 78.9 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2026
  > 
@@ -25,52 +25,52 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 42 mins        ██████████████████░░░░░░░   71.85 % 
-Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Batchfile                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown                 2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.84 % 
+Python                   1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Bash                     1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Opencode Cli             1 hr 42 mins        ██████████████████░░░░░░░   71.96 % 
-VS Code                  39 mins             ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Opencode Cli             3 hrs 53 mins       ███████████████░░░░░░░░░░   59.24 % 
+VS Code                  2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.65 % 
+OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-resource                 1 hr 38 mins        █████████████████░░░░░░░░   68.65 % 
-west                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-env-windows              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-rt-thread                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-opencode                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+west                     2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+resource                 1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   30.07 % 
+workspace                1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+env-windows              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-WSL                      2 hrs 22 mins       █████████████████████████   100.00 % 
+WSL                      6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 21 mins (99.27%)
+⏱ AI Coding Time: 5 hrs 36 mins (85.54%)
 
-✍️ 328 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 907 lines written by AI, 4 lines written by hand (99.56% AI-written)
 
-🔤 1,669,916 Input Tokens, 179,681 Output Tokens
+🔤 2,738,935 Input Tokens, 330,495 Output Tokens
 
-💵 $74.83 Estimated AI Cost This Week
+💵 $131.38 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 38 AI Prompts
+🧠 26 AI Sessions, 75 AI Prompts
 
-GLM                      277 lines           █████████████████████░░░░   82.93 % 
-Opencode-Cli             57 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+GLM                      841 lines           ██████████████████████░░░   89.85 % 
+Opencode-Cli             95 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 991 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.56% of written lines came from AI
+📄 Detailed Prompter — average 615 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 23:29:30 UTC
+ Last Updated on 09/10/2026 22:46:51 UTC
 <!--END_SECTION:waka-->
