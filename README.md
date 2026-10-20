@@ -1,9 +1,9 @@
 ### Hi there 👋, welcome to my github.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,54 +25,53 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-Other                    2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Python                   2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Image (svg)              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Markdown                 3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Other                    1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Python                   1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Image (svg)              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🔥 Editors: 
-Opencode Cli             7 hrs 11 mins       █████████████░░░░░░░░░░░░   51.36 % 
-OpenCode                 6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Opencode Cli             6 hrs 39 mins       █████████████████░░░░░░░░   68.94 % 
+OpenCode                 2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🐱‍💻 Projects: 
-test_opencode            4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
-resource                 4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-system_application_analys1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-10-16                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-ppt-master               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+resource                 2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+test_opencode            2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+system_application_analys1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+10-16                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+test                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 💻 Operating System: 
-WSL                      13 hrs 29 mins      ████████████████████████░   96.35 % 
-Windows                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+WSL                      9 hrs 8 mins        ████████████████████████░   94.70 % 
+Windows                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 59 mins (99.82%)
+⏱ AI Coding Time: 9 hrs 37 mins (99.79%)
 
-✍️ 8,776 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,341 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,295,464 Input Tokens, 897,319 Output Tokens
+🔤 3,788,950 Input Tokens, 675,033 Output Tokens
 
-💵 $237.22 Estimated AI Cost This Week
+💵 $146.43 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 143 AI Prompts
+🧠 55 AI Sessions, 116 AI Prompts
 
-GLM                      5,071 lines         ███████████████░░░░░░░░░░   60.37 % 
-K                        2,259 lines         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Qwen                     1,070 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      5,355 lines         ███████████████████░░░░░░   74.99 % 
+Qwen                     1,063 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+K                        723 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,326 characters per prompt
+📄 Detailed Prompter — average 1,107 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 22:31:13 UTC
+ Last Updated on 20/10/2026 21:46:07 UTC
 <!--END_SECTION:waka-->
