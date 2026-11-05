@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 106.6 kB Used in GitHub's Storage 
+> 📦 111.3 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2026
  > 
@@ -25,55 +25,53 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.21 % 
-Other                    1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Astro                    55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-CSS                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Image (svg)              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Markdown                 2 hrs 39 mins       ███████████████░░░░░░░░░░   58.11 % 
+Other                    1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Image (svg)              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+GN                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-Opencode Cli             5 hrs               ███████████████████░░░░░░   76.03 % 
-OpenCode                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Claude Code              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Opencode Cli             3 hrs 10 mins       █████████████████░░░░░░░░   69.35 % 
+OpenCode                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Claude Code              29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-HOUCQ4869.github.io      2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.68 % 
-resource                 2 hrs               ████████░░░░░░░░░░░░░░░░░   30.50 % 
-ppt-master               1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-CV                       29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-11-3-1                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+resource                 2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.04 % 
+ppt-master               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+CV                       29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+11-3-1                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+HOUCQ4869.github.io      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-WSL                      6 hrs 17 mins       ████████████████████████░   95.44 % 
-Windows                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+WSL                      4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 32 mins (99.26%)
+⏱ AI Coding Time: 4 hrs 32 mins (98.93%)
 
-✍️ 3,168 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,034 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,952,262 Input Tokens, 817,702 Output Tokens
+🔤 7,114,447 Input Tokens, 694,754 Output Tokens
 
-💵 $370.67 Estimated AI Cost This Week
+💵 $271.52 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 80 AI Prompts
+🧠 23 AI Sessions, 48 AI Prompts
 
-GLM                      2,901 lines         ████████████████████████░   97.38 % 
-Opencode-Cli             78 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+GLM                      2,847 lines         █████████████████████████   100.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 673 characters per prompt
+📄 Detailed Prompter — average 770 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/11/2026 23:49:42 UTC
+ Last Updated on 05/11/2026 23:44:59 UTC
 <!--END_SECTION:waka-->
